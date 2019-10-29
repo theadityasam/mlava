@@ -69,6 +69,7 @@ public class SimpleGradientDescent {
         data.add(new Point2D.Double(4, 5));
         data.add(new Point2D.Double(5, 6));
         data.add(new Point2D.Double(6, 7));
+	data.add(new Point2D.Double(7, 8));
         return data;
     }
 
